@@ -1,5 +1,5 @@
 
-function App() {
+export const App = () => {
   return (
     <div>
       <header>
@@ -9,6 +9,6 @@ function App() {
       </header>
     </div>
   );
-}
+};
 
 export default App;
